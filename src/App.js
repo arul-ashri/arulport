@@ -1,23 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import AboutMe from './Components/AboutMeComponent';
+import Landing from './Components/LandingComponent';
+import Projects from './Components/ProjectsComponent';
+import Skills from './Components/SkillsComponent';
+import Timeline from './Components/TimelineComponent';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div
+    style={{
+      backgroundColor:   '#1b2735',
+      color: 'black',}}>
+       <Landing />
+       <AboutMe />
+       <Timeline />
+       <Skills />
+       <Projects />
     </div>
   );
 }
