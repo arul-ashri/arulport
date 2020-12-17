@@ -152,7 +152,7 @@ function Landing() {
                     <a
                         style={{ textDecoration: 'none', color: "white" }}
                         href='https://github.com/arul-ashri'
-                        target='_blank'
+                       
                     >
                         <FaGithub />
                     </a>
@@ -163,7 +163,7 @@ function Landing() {
                     <a
                         style={{ textDecoration: 'none', color: "white" }}
                         href='https://www.linkedin.com/in/arul-ashri-006875189/'
-                        target='_blank'
+                        
                     >
                         <FaLinkedin />
                     </a>
@@ -174,7 +174,7 @@ function Landing() {
                     <a
                         style={{ textDecoration: 'none', color: "white" }}
                         href='https://www.instagram.com/arul.ashri/'
-                        target='_blank'
+                     
                     >
                         <FaInstagram />
                     </a>
@@ -185,7 +185,7 @@ function Landing() {
                     <a
                         style={{ textDecoration: 'none', color: "white" }}
                         href='https://www.facebook.com/arul.ashri.9/'
-                        target='_blank'
+                      
                     >
                         <FaFacebook />
                     </a>
@@ -196,7 +196,7 @@ function Landing() {
                     <a
                         style={{ textDecoration: 'none', color: "white" }}
                         href='https://www.quora.com/profile/Arul-Ashri'
-                        target='_blank'
+                       
                     >
                         <FaTwitter />
                     </a>
@@ -207,7 +207,7 @@ function Landing() {
                     <a
                         style={{ textDecoration: 'none', color: "white" }}
                         href='https://www.instagram.com/arul.ashri/'
-                        target='_blank'
+                        
                     >
                         <FaQuora />
                     </a>
